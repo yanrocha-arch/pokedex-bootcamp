@@ -24,3 +24,6 @@ Uma aplicação web que permite buscar Pokémon pelo nome ou número e visualiza
 - **Aplicação no ar (GitHub Pages):** https://yanrochalino.github.io/pokedex-bootcamp/
 - **Repositório:** https://github.com/yanrochalino/pokedex-bootcamp
 'Adiciona README com instrucoes do projeto'
+cd "$HOME\Documents"
+git clone https://github.com/yanrochalino/pokedex-bootcamp.git
+cd .\pokedex-bootcamp
