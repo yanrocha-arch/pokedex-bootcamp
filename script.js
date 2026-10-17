@@ -80,3 +80,5 @@ campoBusca.addEventListener("keydown", (evento) => {
   }
 });
 Limpa campo de busca apos exibir resultado
+window.pokemonAtual = dados;
+document.getElementById("botao-time").hidden = false;
